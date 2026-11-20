@@ -1,1 +1,12 @@
-{"model_version": "v1", "accuracy": 0.835, "f1": 0.8608, "trained_at": "2026-11-19 04:41"}
+{
+    "model_version": "v2",
+    "algorithm": "RandomForestClassifier",
+    "training_method": "Batch Learning",
+    "historical_records": 1000,
+    "new_records": 0,
+    "total_records": 1000,
+    "accuracy": 0.84,
+    "f1": 0.876,
+    "trained_at": "2026-11-20T05:10:04.427215+00:00",
+    "sklearn_version": "1.6.1"
+}
