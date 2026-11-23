@@ -3,10 +3,10 @@
     "algorithm": "RandomForestClassifier",
     "training_method": "Batch Learning",
     "historical_records": 1000,
-    "new_records": 0,
-    "total_records": 1000,
-    "accuracy": 0.84,
-    "f1": 0.876,
-    "trained_at": "2026-11-20T05:10:04.427215+00:00",
+    "new_records": 1000,
+    "total_records": 2000,
+    "accuracy": 0.965,
+    "f1": 0.9713,
+    "trained_at": "2026-11-23T03:30:14.149366+00:00",
     "sklearn_version": "1.6.1"
 }
